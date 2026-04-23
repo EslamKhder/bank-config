@@ -4,4 +4,4 @@ spring:
       on-profile: "qa"
 
 account:
-  version: "2"
+  version: "22"
