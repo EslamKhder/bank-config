@@ -4,4 +4,4 @@ spring:
       on-profile: "qa"
 
 account:
-  version: "{cipher}5b9455d53a1c25a3d7a1dfd558199bcfe909b42291b110aebcc3ef84a7c36b5f"
+  version: "{cipher}81142a30d008c885a326da6ea8476652f97904fc16d3cb8eabb303491034a023"
