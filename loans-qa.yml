@@ -5,4 +5,4 @@ spring:
 
 loans:
   #version: "{cipher}81142a30d008c885a326da6ea8476652f97904fc16d3cb8eabb303491034a023"
-  version: "cards-1"
+  version: "loans-1"
