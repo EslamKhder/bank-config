@@ -16,4 +16,4 @@ spring:
     show-sql: true
 
 account:
-  version: "1"
+  version: "11"
