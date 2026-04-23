@@ -1,6 +1,11 @@
 server:
   port: 8082
 spring:
+  rabbitmq:
+    host: "localhost"
+    port: 5672
+    username: "guest"
+    password: "guest"
   application:
     name: loans
   datasource:
@@ -19,3 +24,9 @@ spring:
 
 loans:
   version: "11"
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
