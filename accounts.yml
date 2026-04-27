@@ -21,7 +21,7 @@ spring:
     show-sql: true
 
 account:
-  version: "default-version-account-5"
+  version: "default-version-account-6"
 
 management:
   endpoints:
