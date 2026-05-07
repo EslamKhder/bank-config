@@ -5,3 +5,9 @@ spring:
 
 loans:
   version: "3"
+
+info:
+  app:
+    name: "loans prod"
+    description: "loans Application prod"
+    version: "1.0.0 prod"

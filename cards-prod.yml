@@ -5,3 +5,9 @@ spring:
 
 cards:
   version: "3"
+
+info:
+  app:
+    name: "card prod"
+    description: "card Application prod"
+    version: "1.0.0 prod"
