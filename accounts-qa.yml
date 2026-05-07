@@ -6,3 +6,10 @@ spring:
 account:
   #version: "{cipher}81142a30d008c885a326da6ea8476652f97904fc16d3cb8eabb303491034a023"
   version: "account-5"
+
+
+info:
+  app:
+    name: "account-qa"
+    description: "Account Application qa"
+    version: "1.0.0 qa"

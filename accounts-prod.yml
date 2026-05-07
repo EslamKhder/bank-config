@@ -5,3 +5,10 @@ spring:
 
 account:
   version: "3"
+
+
+info:
+  app:
+    name: "account-prod"
+    description: "Account Application prod"
+    version: "1.0.0 prod"
